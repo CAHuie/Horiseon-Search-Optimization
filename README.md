@@ -5,4 +5,4 @@
   Here is a screenshot of the page:![FE73ACBF-5CB0-4549-B5E5-9C812E05DF6B_1_105_c](https://user-images.githubusercontent.com/87352901/128621819-ddd30d44-4658-4959-afe4-ab5bd234bafa.jpeg)
   
   
-Link to page:
+Link to page:https://cahuie.github.io/Horiseon-Search-Optimization/
